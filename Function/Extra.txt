@@ -2,6 +2,6 @@
 //               Language: JavaScript
 //               Topic   : [Function]
 //               Problem :👉👉 [3]
-//               Want    :  Multiplication
-//               file    : Multiplication.js             
+//               Want    :  CountVowels
+//               file    : CountVowels    
 // ================================================
