@@ -1,7 +1,7 @@
 // ================================================
 //               Language: JavaScript
 //               Topic   : [Function]
-//               Problem :👉👉 [3]
-//               Want    :  CountVowels
-//               file    : CountVowels    
+//               Problem :👉👉 [6]
+//               Want    :  HigherOrderFunction.js
+//               file    : HigherOrderFunction.js 
 // ================================================
