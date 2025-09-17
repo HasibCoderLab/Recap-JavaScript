@@ -1,7 +1,0 @@
-// ================================================
-//               Language: JavaScript
-//               Topic   : [Function]
-//               Problem :👉👉 [11]
-//               Want    :  GivenNumByUser.js
-//               file    : Node ProblemSolving/GivenNumByUser.js
-// ================================================

@@ -1,0 +1,7 @@
+// ================================================
+//               Language: JavaScript
+//               Topic   : [Solve Problem]
+//               Problem :👉👉 [12]
+//               Want    :  FactorialUsinhReduce
+//               file    : Node ProblemSolving/FactorialUsinhReduce.js
+// ================================================

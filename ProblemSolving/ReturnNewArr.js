@@ -2,13 +2,13 @@
 //               Language: JavaScript
 //               Topic   : [Function]
 //               Problem :👉👉 [11]
-//               Want    :  GivenNumByUser.js
-//               file    : Node ProblemSolving/GivenNumByUser.js
+//               Want    :  ReturnNewArr
+//               file    : Node ProblemSolving/ReturnNewArr.js
 // ================================================
 
 // let n =  prompt("Enter Num") ;
 
-// let n = 5
+let n = 5
 
 let arr = [] ;
 // let arr = [] ;
