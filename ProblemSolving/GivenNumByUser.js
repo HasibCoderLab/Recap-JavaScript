@@ -8,7 +8,7 @@
 
 // let n =  prompt("Enter Num") ;
 
-let n = 5
+// let n = 5
 
 let arr = [] ;
 // let arr = [] ;
