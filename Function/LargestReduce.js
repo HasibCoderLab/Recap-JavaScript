@@ -3,5 +3,11 @@
 //               Topic   : [Function]
 //               Problem :👉👉 [9]
 //               Want    :  LargestReduce
-//               file    : Node Function/LargestReduce.js
+//               file    : node Function/LargestReduce.js
 // ================================================
+let arr  = [ 10 , 25, 36, 47,65,5] ;
+const output = arr.reduce((res , value)=>{
+   return  res >value ? res :value
+})
+console.log(output);
+
