@@ -1,0 +1,22 @@
+.content{
+    /* display: flex; */
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    /* grid-template-columns: repeat(5,1fr); */
+
+    /* gap: 25px; */
+    justify-items: center;
+    /* justify-content: center; */
+}
+.box {
+    height: 250px;
+    width: 250px;
+    border: 2px solid red;
+    padding-top: 20px;
+
+
+}
+
+h2 {
+    text-align: center;
+}
